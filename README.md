@@ -37,4 +37,6 @@ src/
         └── static/
             └── images/
                 └── vistula.png
+
+![image.alt](https://github.com/PJYROmE/FirstProject/blob/a531c1b24cec02bc54e1fb1deb26987e47d3b374/VISTULA%20UNIVERSITY%20LOGO.png)                
                 
