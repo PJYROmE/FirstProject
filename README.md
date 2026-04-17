@@ -23,7 +23,7 @@ Clone the repository
 Open the project in IntelliJ IDEA
 Right-click the project → Maven → Reload Project
 Run FirstProjectJavaSpringApplication.java
-The app starts on http://localhost:8080
+The app starts on http://localhost:8080/greeting?name=Vistula
 src/
 └── main/
     ├── java/
