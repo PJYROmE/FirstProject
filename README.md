@@ -43,4 +43,5 @@ PROJECT WHEN RUNNING
 ![image.alt](https://github.com/PJYROmE/FirstProject/blob/d6ca70d6af2712944258513c7571969e582b3d22/Project%20when%20running.png)
 
 OUTCOME
+![image.alt](https://github.com/PJYROmE/FirstProject/blob/c0d544ce7bd3cff61a1539a783fe05a0ab054d45/outcome.png)
 
